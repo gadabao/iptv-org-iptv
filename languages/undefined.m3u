@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="FR" tvg-url="" group-title="Music",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SN" tvg-url="" group-title="",RTS 1
+http://live1.acangroup.org:1930/larts/rts1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjAgMzowNDoxNSBBTSZoYXNoX3ZhbHVlPUd0ZDA5RWpkaDhBdkJwTExnU1hweUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SN" tvg-url="" group-title="",RTS 2
+http://live1.acangroup.org:1930/larts/rts2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjAgMzowODozOCBBTSZoYXNoX3ZhbHVlPXBXbkkxdDg4YTdGTHVUVUdnekpnVlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" tvg-country="CA" tvg-url="" group-title="",Tele-V
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" tvg-country="ES" tvg-url="" group-title="Local",Trebujena TV
+https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
